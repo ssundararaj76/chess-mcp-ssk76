@@ -2,7 +2,7 @@ Install this MCP server by addin the
 following JSON code to your JSON config 
 file
 
-''' json
+```json
 {
     "mcpServers": {
         "server": {
@@ -15,5 +15,4 @@ file
         }
     }
 }
-
-'''
+```
